@@ -14,7 +14,7 @@ public class Database {
 	static String driver = "com.mysql.jdbc.Driver";//数据库驱动
 	static String url = "jdbc:mysql://localhost:3306/HrMS";//数据库连接url
 	static String user = "root";//用户名
-	static String password = "631481098";//密码
+	static String password = "";//密码
 
 	private static Connection conn = null;//Connection对象
 	private static Statement state = null;//Statement对象
