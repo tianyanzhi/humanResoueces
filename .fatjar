@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Dec 31 18:56:06 CST 2017
+onejar.license.required=false
+manifest.mergeall=true
+manifest.removesigners=true
+excludes=
+includes=
+onejar.checkbox=true
+onejar.expand=
+manifest.classpath=
+jarname=D\:\\Java-project\\humanResoueces\\humanResoueces_fat.jar
+jarname.isextern=true
+manifest.file=<createnew>
+manifest.mainclass=hr331.Login
